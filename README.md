@@ -1,6 +1,6 @@
 # Awesome NodeCG
 
-A curated list of NodeCG Bundles all in one place. See CONTRIBUTING.md for how to contribute!
+A curated list of NodeCG Bundles all in one place. Want to suggest a bundle for inclusion? Open a PR!
 
 # Service Integrations
 
