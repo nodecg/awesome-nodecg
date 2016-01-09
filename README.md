@@ -72,7 +72,7 @@ Licensing may apply to to the following Bundles. Please read their info pages/Re
 * [toth-alert](https://github.com/nodecg/nodecg-samples/tree/master/toth-alert) - A simple alert message with a single-button interface. The alert slides in, displays for 8 seconds, then slides out. Includes SFX.
 * [toth-lowerthird](https://github.com/nodecg/nodecg-samples/tree/master/toth-lowerthird) - A lowerthird with SFX. Title and body can be set via the dashboard. Can be triggered to show and hide manually or on a timer.
 * [toth-socialmedia](https://github.com/nodecg/nodecg-samples/tree/master/toth-socialmedia) - A display of Tip of the Hats social media links such as Twitter, Youtube, and the One Step Camp homepage. Includes SFX.
-* [prime-socialmedia](https://github.com/rfox90/prime-socialmedia) - Display social media links at a set interval or on demand. 
+* [prime-socialmedia](https://github.com/probableprime/prime-socialmedia) - Display social media links at a set interval or on demand. 
 * [nodecg-player](https://github.com/timroejr/nodecg-player) - A lowerthird with dashboard input.
 
 ## Full Systems
