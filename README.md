@@ -10,6 +10,7 @@ A curated list of NodeCG Bundles all in one place. Want to suggest a bundle for 
 * [nodecg-follow](https://github.com/Tam/nodecg-follow) - A Twitch Follow notifier for NodeCG
 * [bubu-followers](https://github.com/eaceaser/bubu-followers) - NodeCG Twitch Followers
 * [nodecg-twitch-chat](https://github.com/denolfe/nodecg-twitch-chat) - NodeCG bundle which loads Twitch chat as a dashboard panel
+* [nodecg-dashboard](https://github.com/denolfe/nodecg-dashboard) - NodeCG bundle showing viewers, followers, uptime, and stream title
 
 ## Twitch Alerts
 * [bubu-twitchalerts](https://github.com/eaceaser/bubu-twitchalerts) - NodeCG bundle to connect to the TwitchAlerts API.
