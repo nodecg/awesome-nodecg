@@ -2,6 +2,23 @@
 
 A curated list of NodeCG Bundles all in one place. Want to suggest a bundle for inclusion? Open a PR!
 
+## Table of Contents
+- [Service Integrations](#service-integrations)
+  - [Twitch](#twitch)
+  - [Twitch Alerts](#twitch-alerts)
+  - [Beam](#beam)
+  - [Stream Tip](#stream-tip)
+  - [Barry's Donation Tracker](#barrys-donation-tracker)
+  - [ImRaising](#imraising)
+  - [Strawpoll](#strawpoll)
+- [Media](#media)
+  - [3rd Party Statistics](#3rd-party-statistics)
+- [Misc](#misc)
+  - [Dashboard Only](#dashboard-only)
+- [Complete Systems](#complete-systems)
+  - [Components](#components)
+  - [Full Systems](#full-systems)
+
 ## Service Integrations
 
 ### Twitch
@@ -20,7 +37,6 @@ A curated list of NodeCG Bundles all in one place. Want to suggest a bundle for 
 * [nodecg-beam](https://github.com/rfox90/nodecg-beam) - Hooks into beam api and sends out Follower & Sub Events
 
 ### Stream Tip
-
 * [lfg-streamtip](https://github.com/SupportClass/lfg-streamtip) - Easy StreamTip integration for NodeCG
 
 ### Barry's Donation Tracker
