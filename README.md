@@ -102,3 +102,8 @@ Licensing may apply to to the following Bundles. Please read their info pages/Re
 * [nodecg-omnilays](https://github.com/Charleon/nodecg-omnilays) - Guilty Gear Xrd Stream Overlay for the fightinggame-scene.
 * [nodecg-for-smash](https://github.com/mparkms/nodecg-for-smash) - A set of components targets at Super Smash Bros. Melee
 
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, the NodeCG team has waived all copyright and related or neighboring rights to this work.
