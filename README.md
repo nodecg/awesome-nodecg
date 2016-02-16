@@ -4,6 +4,8 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project.*
 
+*Please read the [contribution guidelines](contributing.md) before contributing.*
+
  Want to suggest a bundle for inclusion? Open a PR!
 
 ## Table of Contents
