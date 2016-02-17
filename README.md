@@ -58,6 +58,7 @@ Think of them as building blocks that can be used to speed up development time o
 ## Complete Systems
 * [agdq16-layouts](https://github.com/GamesDoneQuick/agdq16-layouts) - The on-stream graphics used during Awesome Games Done Quick 2016.
 * [nodecg-for-smash](https://github.com/mparkms/nodecg-for-smash) - A set of components targets at Super Smash Bros. Melee.
+* [nodecg-speedcontrol](https://github.com/charleon/nodecg-speedcontrol) - Fully fledged speedrun marathon overlay system automating otherwise time-consuming tasks
 
 ## License
 
