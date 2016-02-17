@@ -18,6 +18,7 @@ Check the [`old-versions`](https://github.com/nodecg/awesome-nodecg/blob/master/
   - [Stream Tip](#stream-tip)
 - [Media](#media)
 - [Misc](#misc)
+- [Dashboard Polymer Elements](#dashboard-polymer-elements)
 - [Complete Systems](#complete-systems)
   - [Full Systems](#full-systems)
 
@@ -44,6 +45,13 @@ Check the [`old-versions`](https://github.com/nodecg/awesome-nodecg/blob/master/
 * [lfg-omega13](https://github.com/SupportClass/lfg-omega13) - Places a button on the dashboard that users can press to send a notification to an administrator's phone.
 * [lfg-hypetrain](https://github.com/SupportClass/lfg-hypetrain) - Provides an API for tracking "hype trains", chains of events occuring one after another such as a series of subscription events on a Twitch channel.
 * [lfg-filter](https://github.com/SupportClass/lfg-filter) - Filter words and email addresses based on a user-editable blacklist.
+
+## Dashboard Polymer Elements
+* [nodecg-toggle](https://github.com/NodeCGElements/nodecg-toggle) - Toggles the boolean state of a Replicant.
+* [nodecg-toast](https://github.com/NodeCGElements/nodecg-toast) - An implementation of paper-toast designed to work well in NodeCG dashboard panels.
+* [nodecg-replicant-input](https://github.com/NodeCGElements/nodecg-replicant-input) - A [`<paper-input>`](https://github.com/PolymerElements/paper-input) element that has two-way binding with a Replicant.
+* [nodecg-corner-select](https://github.com/NodeCGElements/nodecg-corner-select) - A UI element for selecting one of four corners, useful when making graphics that the user may need to reposition.
+* [nodecg-replicant](https://github.com/NodeCGElements/nodecg-replicant) - A declarative way of using Replicants, best used as part of other Polymer elements.
 
 ## Complete Systems
 * [agdq16-layouts](https://github.com/GamesDoneQuick/agdq16-layouts) - The on-stream graphics used during Awesome Games Done Quick 2016.
