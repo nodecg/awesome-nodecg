@@ -47,6 +47,8 @@ Check the [`old-versions`](https://github.com/nodecg/awesome-nodecg/blob/master/
 * [lfg-filter](https://github.com/SupportClass/lfg-filter) - Filter words and email addresses based on a user-editable blacklist.
 
 ## Dashboard Polymer Elements
+These are [Polymer](https://www.polymer-project.org/1.0/) elements meant to be used as part of a dashboard panel.
+Think of them as building blocks that can be used to speed up development time of a panel.
 * [nodecg-toggle](https://github.com/NodeCGElements/nodecg-toggle) - Toggles the boolean state of a Replicant.
 * [nodecg-toast](https://github.com/NodeCGElements/nodecg-toast) - An implementation of paper-toast designed to work well in NodeCG dashboard panels.
 * [nodecg-replicant-input](https://github.com/NodeCGElements/nodecg-replicant-input) - A [`<paper-input>`](https://github.com/PolymerElements/paper-input) element that has two-way binding with a Replicant.
