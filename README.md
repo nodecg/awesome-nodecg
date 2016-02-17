@@ -46,8 +46,6 @@ Check the [`old-versions`](https://github.com/nodecg/awesome-nodecg/blob/master/
 * [lfg-filter](https://github.com/SupportClass/lfg-filter) - Filter words and email addresses based on a user-editable blacklist.
 
 ## Complete Systems
-Licensing may apply to to the following Bundles. Please read their info pages/Readmes.
-
 * [agdq16-layouts](https://github.com/GamesDoneQuick/agdq16-layouts) - The on-stream graphics used during Awesome Games Done Quick 2016.
 * [nodecg-for-smash](https://github.com/mparkms/nodecg-for-smash) - A set of components targets at Super Smash Bros. Melee.
 
