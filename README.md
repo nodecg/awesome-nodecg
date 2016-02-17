@@ -14,18 +14,11 @@ Check the [`old-versions`](https://github.com/nodecg/awesome-nodecg/blob/master/
 ## Table of Contents
 - [Service Integrations](#service-integrations)
   - [Twitch](#twitch)
-  - [Twitch Alerts](#twitch-alerts)
   - [Beam](#beam)
   - [Stream Tip](#stream-tip)
-  - [Barry's Donation Tracker](#barrys-donation-tracker)
-  - [ImRaising](#imraising)
-  - [Strawpoll](#strawpoll)
 - [Media](#media)
-  - [3rd Party Statistics](#3rd-party-statistics)
 - [Misc](#misc)
-  - [Dashboard Only](#dashboard-only)
 - [Complete Systems](#complete-systems)
-  - [Components](#components)
   - [Full Systems](#full-systems)
 
 ## Service Integrations
