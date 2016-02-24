@@ -6,6 +6,13 @@
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
+### What is [NodeCG](http://nodecg.com)?
+NodeCG is a broadcast graphics framework and application. It provides an API and structure for making dynamic graphical assets for broadcast use. NodeCG graphics packages are called "bundles". NodeCG is primarily aimed at [Twitch](http://www.twitch.tv/) broadcasters using [Open Broadcaster Software](https://obsproject.com/), but is usable in any environment that can render HTML, including [CasparCG](http://casparcg.com/).
+
+Still not clear on what NodeCG is and what it is used for? These videos go over some of the more prominent uses of NodeCG:
+ - [Tip of the Hats 2015 Graphics Overview](https://www.youtube.com/watch?v=Z4-qaya5-0Y)
+ - [Awesome Games Done Quick 2016 Graphics Overview](https://www.youtube.com/watch?v=oAzj9Zddogs)
+
 Want to suggest a bundle for inclusion? Open a PR!
  
 > Looking for bundles for an older version of NodeCG?
