@@ -2,6 +2,9 @@
 
 > A curated list of [NodeCG](http://nodecg.com) bundles and resources.
 
+*Looking for bundles for an older version of NodeCG?
+Check the [`old-versions`](https://github.com/nodecg/awesome-nodecg/blob/master/old-versions) folder.*
+
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project.*
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
@@ -14,9 +17,7 @@ Still not clear on what NodeCG is and what it is used for? These videos go over 
  - [Awesome Games Done Quick 2016 Graphics Overview](https://www.youtube.com/watch?v=oAzj9Zddogs)
 
 Want to suggest a bundle for inclusion? Open a PR!
- 
-> Looking for bundles for an older version of NodeCG?
-Check the [`old-versions`](https://github.com/nodecg/awesome-nodecg/blob/master/old-versions) folder.
+
 
 ## Table of Contents
 - [Service Integrations](#service-integrations)
