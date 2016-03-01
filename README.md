@@ -33,6 +33,7 @@ Want to suggest a bundle for inclusion? Open a PR!
 ## Service Integrations
 
 ### Twitch
+* [lfg-sublistener](https://github.com/SupportClass/lfg-sublistener) - Listens for subscription events via Twitch chat and optionally via the Twitch API
 * [lfg-twichapi](https://github.com/SupportClass/lfg-twitchapi) - Lets other bundles easily query the Twitch API on behalf of a logged in user.
 * [nodecg-twitch-chat](https://github.com/denolfe/nodecg-twitch-chat) - NodeCG bundle which loads Twitch chat as a dashboard panel.
 * [nodecg-dashboard](https://github.com/denolfe/nodecg-dashboard) - NodeCG bundle showing viewers, followers, uptime, and stream title.
