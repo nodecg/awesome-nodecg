@@ -53,6 +53,7 @@ Want to suggest a bundle for inclusion? Open a PR!
 * [lfg-omega13](https://github.com/SupportClass/lfg-omega13) - Places a button on the dashboard that users can press to send a notification to an administrator's phone.
 * [lfg-hypetrain](https://github.com/SupportClass/lfg-hypetrain) - Provides an API for tracking "hype trains", chains of events occuring one after another such as a series of subscription events on a Twitch channel.
 * [lfg-filter](https://github.com/SupportClass/lfg-filter) - Filter words and email addresses based on a user-editable blacklist.
+* [lfg-nucleus](https://github.com/SupportClass/lfg-nucleus) - Meta bundle that ties together functionality from other "lfg" helper bundles.
 
 ## Dashboard Polymer Elements
 These are [Polymer](https://www.polymer-project.org/1.0/) elements meant to be used as part of a dashboard panel.
