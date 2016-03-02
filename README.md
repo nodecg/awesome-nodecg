@@ -69,6 +69,8 @@ Think of them as building blocks that can be used to speed up development time o
 * [nodecg-replicant-input](https://github.com/NodeCGElements/nodecg-replicant-input) - A [`<paper-input>`](https://github.com/PolymerElements/paper-input) element that has two-way binding with a Replicant.
 * [nodecg-position-select](https://github.com/NodeCGElements/nodecg-position-select) - A UI element for quickly selecting a position preset, useful when making graphics that the user may need to reposition.
 * [nodecg-replicant](https://github.com/NodeCGElements/nodecg-replicant) - A declarative way of using Replicants, best used as part of other Polymer elements.
+* [nodecg-message-button](https://github.com/ProbablePrime/nodecg-message-button) - A [`<paper-button>`](https://elements.polymer-project.org/elements/paper-button) which sends a message to a bundle when clicked.
+* [nodecg-show-hide](https://github.com/ProbablePrime/nodecg-show-hide) - A dashboard element which provides show & hide [`<nodecg-message-button>`](https://github.com/ProbablePrime/nodecg-message-button) buttons.
 
 ## Complete Systems
 * [agdq16-layouts](https://github.com/GamesDoneQuick/agdq16-layouts) - The on-stream graphics used during Awesome Games Done Quick 2016.
