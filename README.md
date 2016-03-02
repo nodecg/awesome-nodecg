@@ -20,6 +20,7 @@ Want to suggest a bundle for inclusion? Open a PR!
 
 
 ## Table of Contents
+- [Notification Graphics](#notification-graphics)
 - [Service Integrations](#service-integrations)
   - [Twitch](#twitch)
   - [Beam](#beam)
@@ -29,6 +30,9 @@ Want to suggest a bundle for inclusion? Open a PR!
 - [Dashboard Polymer Elements](#dashboard-polymer-elements)
 - [Complete Systems](#complete-systems)
   - [Full Systems](#full-systems)
+
+## Notification Graphics
+* [lange-notify](https://github.com/Lange/lange-notify) - Lange's personal notification graphic for tips and subscriptions on [his Twitch stream](https://www.twitch.tv/langeh).
 
 ## Service Integrations
 
