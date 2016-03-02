@@ -32,7 +32,7 @@ Want to suggest a bundle for inclusion? Open a PR!
   - [Full Systems](#full-systems)
 
 ## Notification Graphics
-* [lange-notify](https://github.com/Lange/lange-notify) - Lange's personal notification graphic for tips and subscriptions on [his Twitch stream](https://www.twitch.tv/langeh).
+* [lange-notify](https://github.com/Lange/lange-notify) - [Lange](https://github.com/Lange)'s personal notification graphic for tips and subscriptions on [his Twitch stream](https://www.twitch.tv/langeh).
 
 ## Service Integrations
 
