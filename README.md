@@ -60,6 +60,7 @@ Want to suggest a bundle for inclusion? Open a PR!
 * [lfg-hypetrain](https://github.com/SupportClass/lfg-hypetrain) - Provides an API for tracking "hype trains", chains of events occuring one after another such as a series of subscription events on a Twitch channel.
 * [lfg-filter](https://github.com/SupportClass/lfg-filter) - Filter words and email addresses based on a user-editable blacklist.
 * [lfg-nucleus](https://github.com/SupportClass/lfg-nucleus) - Meta bundle that ties together functionality from other "lfg" helper bundles.
+* [ss-twitter](https://github.com/splitscreen/ss-twitter) - Displays a tweet as a graphic, including images. Based on [toth3-overlay](https://github.com/TipoftheHats/toth3-overlay), the live graphics package developed for [Tip of the Hats 2015](http://tipofthehats.org/).
 
 ## Dashboard Polymer Elements
 These are [Polymer](https://www.polymer-project.org/1.0/) elements meant to be used as part of a dashboard panel.
