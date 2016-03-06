@@ -20,7 +20,8 @@ Want to suggest a bundle for inclusion? Open a PR!
 
 
 ## Table of Contents
-- [Notification Graphics](#notification-graphics)
+- [Graphical Components](#graphical-components)
+- [Complete Systems](#complete-systems)
 - [Service Integrations](#service-integrations)
   - [Twitch](#twitch)
   - [Beam](#beam)
@@ -28,11 +29,17 @@ Want to suggest a bundle for inclusion? Open a PR!
 - [Media](#media)
 - [Misc](#misc)
 - [Dashboard Polymer Elements](#dashboard-polymer-elements)
-- [Complete Systems](#complete-systems)
-  - [Full Systems](#full-systems)
 
-## Notification Graphics
+## Graphical Components
+Graphical NodeCG bundles that target a specific task, such as subscription notifications or Tweet displays.
 * [lange-notify](https://github.com/Lange/lange-notify) - [Lange](https://github.com/Lange)'s personal notification graphic for tips and subscriptions on [his Twitch stream](https://www.twitch.tv/langeh).
+* [ss-twitter](https://github.com/splitscreen/ss-twitter) - Displays a tweet as a graphic, including images. Based on [toth3-overlay](https://github.com/TipoftheHats/toth3-overlay), the live graphics package developed for [Tip of the Hats 2015](http://tipofthehats.org/).
+
+## Complete Systems
+NodeCG bundles (or suites of bundles) that provide an entire production system by themselves. They're generally targeted at a specific game or type of show, though some may be more generalized.
+* [agdq16-layouts](https://github.com/GamesDoneQuick/agdq16-layouts) - The on-stream graphics used during Awesome Games Done Quick 2016.
+* [nodecg-for-smash](https://github.com/mparkms/nodecg-for-smash) - A set of components targets at Super Smash Bros. Melee.
+* [nodecg-speedcontrol](https://github.com/charleon/nodecg-speedcontrol) - Fully fledged speedrun marathon overlay system automating otherwise time-consuming tasks
 
 ## Service Integrations
 
@@ -55,12 +62,11 @@ Want to suggest a bundle for inclusion? Open a PR!
 * [mmcn-google-tts](https://github.com/MattMcNam/mmcn-google-tts) - Provides an API to Google TTS.
 
 ## Misc
-
+Helper bundles that don't necessarily display any graphics, but instead provide utility functionality that other bundles may use.
 * [lfg-omega13](https://github.com/SupportClass/lfg-omega13) - Places a button on the dashboard that users can press to send a notification to an administrator's phone.
 * [lfg-hypetrain](https://github.com/SupportClass/lfg-hypetrain) - Provides an API for tracking "hype trains", chains of events occuring one after another such as a series of subscription events on a Twitch channel.
 * [lfg-filter](https://github.com/SupportClass/lfg-filter) - Filter words and email addresses based on a user-editable blacklist.
 * [lfg-nucleus](https://github.com/SupportClass/lfg-nucleus) - Meta bundle that ties together functionality from other "lfg" helper bundles.
-* [ss-twitter](https://github.com/splitscreen/ss-twitter) - Displays a tweet as a graphic, including images. Based on [toth3-overlay](https://github.com/TipoftheHats/toth3-overlay), the live graphics package developed for [Tip of the Hats 2015](http://tipofthehats.org/).
 
 ## Dashboard Polymer Elements
 These are [Polymer](https://www.polymer-project.org/1.0/) elements meant to be used as part of a dashboard panel.
@@ -72,11 +78,6 @@ Think of them as building blocks that can be used to speed up development time o
 * [nodecg-replicant](https://github.com/NodeCGElements/nodecg-replicant) - A declarative way of using Replicants, best used as part of other Polymer elements.
 * [nodecg-message-button](https://github.com/ProbablePrime/nodecg-message-button) - A [`<paper-button>`](https://elements.polymer-project.org/elements/paper-button) which sends a message to a bundle when clicked.
 * [nodecg-show-hide](https://github.com/ProbablePrime/nodecg-show-hide) - A dashboard element which provides show & hide [`<nodecg-message-button>`](https://github.com/ProbablePrime/nodecg-message-button) buttons.
-
-## Complete Systems
-* [agdq16-layouts](https://github.com/GamesDoneQuick/agdq16-layouts) - The on-stream graphics used during Awesome Games Done Quick 2016.
-* [nodecg-for-smash](https://github.com/mparkms/nodecg-for-smash) - A set of components targets at Super Smash Bros. Melee.
-* [nodecg-speedcontrol](https://github.com/charleon/nodecg-speedcontrol) - Fully fledged speedrun marathon overlay system automating otherwise time-consuming tasks
 
 ## License
 
