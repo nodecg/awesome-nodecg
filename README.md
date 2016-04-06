@@ -34,6 +34,7 @@ Want to suggest a bundle for inclusion? Open a PR!
 Graphical NodeCG bundles that target a specific task, such as subscription notifications or Tweet displays.
 * [lange-notify](https://github.com/Lange/lange-notify) - [Lange](https://github.com/Lange)'s personal notification graphic for tips and subscriptions on [his Twitch stream](https://www.twitch.tv/langeh).
 * [ss-twitter](https://github.com/splitscreen/ss-twitter) - Displays a tweet as a graphic, including images. Based on [toth3-overlay](https://github.com/TipoftheHats/toth3-overlay), the live graphics package developed for [Tip of the Hats 2015](http://tipofthehats.org/).
+* [nodecg-progress](https://github.com/coolacid/nodecg-progress) - Displays an indivitual editable progress image for subs, followers or tips as rounds or bar.
 
 ## Complete Systems
 NodeCG bundles (or suites of bundles) that provide an entire production system by themselves. They're generally targeted at a specific game or type of show, though some may be more generalized.
