@@ -20,9 +20,15 @@ Want to suggest a bundle for inclusion? Open a PR!
 
 
 ## Table of Contents
+- [Complete Systems](#complete-systems)
 - [Service Integrations](#service-integrations)
   - [Twitch](#twitch)
 - [Dashboard Polymer Elements](#dashboard-polymer-elements)
+
+## Complete Systems
+NodeCG bundles (or suites of bundles) that provide an entire production system by themselves. They're generally targeted at a specific game or type of show, though some may be more generalized.
+
+- [sgdq16-layouts](https://github.com/GamesDoneQuick/sgdq16-layouts) - The on-stream graphics used during Summer Games Done Quick 2016.
 
 ## Service Integrations
 
