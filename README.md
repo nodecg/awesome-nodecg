@@ -21,19 +21,34 @@ Want to suggest a bundle for inclusion? Open a PR!
 
 ## Table of Contents
 - [Complete Systems](#complete-systems)
+- [Alerts](#alerts)
 - [Service Integrations](#service-integrations)
   - [Twitch](#twitch)
+  - [Beam](#beam)
+- [Utilities](#utilities)
 - [Dashboard Polymer Elements](#dashboard-polymer-elements)
 
 ## Complete Systems
 NodeCG bundles (or suites of bundles) that provide an entire production system by themselves. They're generally targeted at a specific game or type of show, though some may be more generalized.
 
 - [sgdq16-layouts](https://github.com/GamesDoneQuick/sgdq16-layouts) - The on-stream graphics used during Summer Games Done Quick 2016.
+- [toth4-overlay](https://github.com/TipoftheHats/toth4-overlay) - The main broadcast assets for Tip of the Hats 2016.
+
+## Alerts
+Bundles which provide alerts on an overlay.
+
+- [prime-alerts](https://github.com/ProbablePrime/prime-alerts) - Basic follow, sub and tip alerts that listen to nodecg-beam messages.
 
 ## Service Integrations
 
 ### Twitch
-* [lfg-twichapi](https://github.com/SupportClass/lfg-twitchapi) - Lets other bundles easily query the Twitch API on behalf of a logged in user.
+- [lfg-twichapi](https://github.com/SupportClass/lfg-twitchapi) - Lets other bundles easily query the Twitch API on behalf of a logged in user.
+
+### Beam
+- [nodecg-beam](https://github.com/ProbablePrime/nodecg-beam) - Tracks Beam Follows, Subscriptions and Hosts and emits them as events for other bundles.
+
+## Utilities
+- [prime-manual-alerts](https://github.com/ProbablePrime/prime-manual-alerts) - Manual emits follow, subscription, host and tip events which prime-alerts can listen to.
 
 ## Dashboard Polymer Elements
 These are [Polymer](https://www.polymer-project.org/1.0/) elements meant to be used as part of a dashboard panel.
