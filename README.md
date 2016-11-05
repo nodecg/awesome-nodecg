@@ -43,6 +43,7 @@ Bundles which provide alerts on an overlay.
 
 ### Twitch
 - [lfg-twichapi](https://github.com/SupportClass/lfg-twitchapi) - Lets other bundles easily query the Twitch API on behalf of a logged in user.
+- [nodecg-twitch-service](https://github.com/Allar/nodecg-twitch-service) - Tracks Twitch events and emits them as events for other bundles.
 
 ### Beam
 - [nodecg-beam](https://github.com/ProbablePrime/nodecg-beam) - Tracks Beam Follows, Subscriptions and Hosts and emits them as events for other bundles.
