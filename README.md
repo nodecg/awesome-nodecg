@@ -46,6 +46,7 @@ Bundles which provide alerts on an overlay.
 
 ### Beam
 - [nodecg-beam](https://github.com/ProbablePrime/nodecg-beam) - Tracks Beam Follows, Subscriptions and Hosts and emits them as events for other bundles.
+- [nodecg-beam-service](https://github.com/Allar/nodecg-beam-service) Tracks Beam events using [constellation-client](https://github.com/StreamJar/Constellation) and provides Beam info via Replicants.
 
 ## Utilities
 - [prime-manual-alerts](https://github.com/ProbablePrime/prime-manual-alerts) - Manual emits follow, subscription, host and tip events which prime-alerts can listen to.
