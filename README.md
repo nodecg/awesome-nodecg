@@ -12,6 +12,7 @@ NodeCG is a broadcast graphics framework and application. It provides an API and
 
 Still not clear on what NodeCG is and what it is used for? These videos go over some of the more prominent uses of NodeCG:
 - [Tip of the Hats 2015 Graphics Overview](https://www.youtube.com/watch?v=Z4-qaya5-0Y)
+- [Tip of the Hats 2016 Graphics Overview](https://www.youtube.com/watch?v=F0xGN-aSytA)
 - [Awesome Games Done Quick 2016 Graphics Overview](https://www.youtube.com/watch?v=oAzj9Zddogs)
 
 Want to suggest a bundle for inclusion? Open a PR!
