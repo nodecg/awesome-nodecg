@@ -1,4 +1,4 @@
-# Awesome NodeCG [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/nodecg/awesome-nodecg.svg?branch=master)](https://travis-ci.org/nodecg/awesome-nodecg)
+# Awesome NodeCG [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/nodecg/awesome-nodecg.svg?branch=master)](https://travis-ci.org/nodecg/awesome-nodecg) [![Greenkeeper badge](https://badges.greenkeeper.io/nodecg/awesome-nodecg.svg)](https://greenkeeper.io)
 
 > A curated list of [NodeCG](http://nodecg.com) v0.8 bundles and resources.
 
