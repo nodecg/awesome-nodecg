@@ -1,6 +1,6 @@
 # Awesome NodeCG [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/nodecg/awesome-nodecg.svg?branch=master)](https://travis-ci.org/nodecg/awesome-nodecg) [![Greenkeeper badge](https://badges.greenkeeper.io/nodecg/awesome-nodecg.svg)](https://greenkeeper.io)
 
-> A curated list of [NodeCG](http://nodecg.com) v0.8 bundles and resources.
+> A curated list of [NodeCG](http://nodecg.com) v0.9 bundles and resources.
 
 *Looking for bundles for an older version of NodeCG?
 Check the [`old-versions`](https://github.com/nodecg/awesome-nodecg/blob/master/old-versions) folder.*  
@@ -11,12 +11,10 @@ Check the [`old-versions`](https://github.com/nodecg/awesome-nodecg/blob/master/
 NodeCG is a broadcast graphics framework and application. It provides an API and structure for making dynamic graphical assets for broadcast use. NodeCG graphics packages are called "bundles". NodeCG is primarily aimed at [Twitch](http://www.twitch.tv) broadcasters using [Open Broadcaster Software](https://obsproject.com), but is usable in any environment that can render HTML, including [CasparCG](http://casparcg.com).
 
 Still not clear on what NodeCG is and what it is used for? These videos go over some of the more prominent uses of NodeCG:
-- [Tip of the Hats 2015 Graphics Overview](https://www.youtube.com/watch?v=Z4-qaya5-0Y)
 - [Tip of the Hats 2016 Graphics Overview](https://www.youtube.com/watch?v=F0xGN-aSytA)
-- [Awesome Games Done Quick 2016 Graphics Overview](https://www.youtube.com/watch?v=oAzj9Zddogs)
+- [Awesome Games Done Quick 2017 Graphics Overview](https://www.youtube.com/watch?v=vBAZXchbI3U&list=PLTEhlYdONYxv1wk2FsIpEz92X3x2E7bSx)
 
 Want to suggest a bundle for inclusion? Open a PR!
-
 
 ## Table of Contents
 - [Complete Systems](#complete-systems)
@@ -28,11 +26,9 @@ Want to suggest a bundle for inclusion? Open a PR!
 - [Dashboard Polymer Elements](#dashboard-polymer-elements)
 
 ## Complete Systems
-NodeCG bundles (or suites of bundles) that provide an entire production system by themselves. They're generally targeted at a specific game or type of show, though some may be more generalized.
+NodeCG bundles (or suites of bundles) that provide an entire production system by themselves. They're generally targeted at a specific game or type of show, though some may be more generalized. Right now, there is only a single published bundle for NodeCG 0.9:
 
-- [sgdq16-layouts](https://github.com/GamesDoneQuick/sgdq16-layouts) - The on-stream graphics used during Summer Games Done Quick 2016.
-- [toth4-overlay](https://github.com/TipoftheHats/toth4-overlay) - The main broadcast assets for Tip of the Hats 2016.
-- [b2aExtraLife](https://github.com/cshomo11/b2aExtraLife) - A stream bundle created for Extra Life 2016. It will track donation totals, show a list of donors, and display games played and other messages.
+- [sgdq17-layouts](https://github.com/GamesDoneQuick/sgdq17-layouts) - The on-stream graphics used during Summer Games Done Quick 2017.
 
 ## Alerts
 Bundles which provide alerts on an overlay.
@@ -56,9 +52,13 @@ Bundles which provide some form of visual information on an overlay.
 
 ## Utilities
 - [prime-manual-alerts](https://github.com/ProbablePrime/prime-manual-alerts) - Manual emits follow, subscription, host and tip events which prime-alerts can listen to.
+- [prime-socialmedia](https://github.com/ProbablePrime/prime-socialmedia) - A NodeCG social media displayer for popups with information on several social media platforms.
+- [streen](https://github.com/SupportClass/streen) - a centralized interface for interacting with Twitch Chat.
+- [Dashboard](https://github.com/nodecg/dashboard) - A Standalone application to check and use your NodeCG Dashboard.
+- [NodeCG-OBS](https://github.com/nodecg/nodecg-obs) - adds the ability to connect to 1-4 instances of OBS (via obs-websocket) to your NodeCG bundle
 
 ## Dashboard Polymer Elements
-These are [Polymer](https://www.polymer-project.org/1.0/) elements meant to be used as part of a dashboard panel.
+These are [Polymer](https://www.polymer-project.org/) elements meant to be used as part of a dashboard panel.
 Think of them as building blocks that can be used to speed up development time of a panel.
 - [nodecg-toggle](https://github.com/NodeCGElements/nodecg-toggle) - Toggles the boolean state of a Replicant.
 - [nodecg-toast](https://github.com/NodeCGElements/nodecg-toast) - An implementation of paper-toast designed to work well in NodeCG dashboard panels.
@@ -67,6 +67,7 @@ Think of them as building blocks that can be used to speed up development time o
 - [nodecg-replicant](https://github.com/NodeCGElements/nodecg-replicant) - A declarative way of using Replicants, best used as part of other Polymer elements.
 - [nodecg-message-button](https://github.com/ProbablePrime/nodecg-message-button) - A [`<paper-button>`](https://elements.polymer-project.org/elements/paper-button) which sends a message to a bundle when clicked.
 - [nodecg-show-hide](https://github.com/ProbablePrime/nodecg-show-hide) - A dashboard element which provides show & hide [`<nodecg-message-button>`](https://github.com/ProbablePrime/nodecg-message-button) buttons.
+- [nodecg-typeahead-input](https://github.com/NodeCGElements/nodecg-typeahead-input) - A Polymer 2 element that allows the nice usage of a combo field (dropdown+input) in NodeCG.
 
 ## License
 
