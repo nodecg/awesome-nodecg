@@ -1,4 +1,4 @@
-# Awesome NodeCG [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/nodecg/awesome-nodecg.svg?branch=master)](https://travis-ci.org/nodecg/awesome-nodecg) [![Greenkeeper badge](https://badges.greenkeeper.io/nodecg/awesome-nodecg.svg)](https://greenkeeper.io)
+# Awesome NodeCG [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Build Status](https://travis-ci.org/nodecg/awesome-nodecg.svg?branch=master)](https://travis-ci.org/nodecg/awesome-nodecg) [![Greenkeeper badge](https://badges.greenkeeper.io/nodecg/awesome-nodecg.svg)](https://greenkeeper.io)
 
 > A curated list of [NodeCG](http://nodecg.com) v0.9 bundles and resources.
 
@@ -58,7 +58,7 @@ Bundles which provide some form of visual information on an overlay.
 - [NodeCG-OBS](https://github.com/nodecg/nodecg-obs) - adds the ability to connect to 1-4 instances of OBS (via obs-websocket) to your NodeCG bundle
 
 ## Dashboard Polymer Elements
-These are [Polymer](https://www.polymer-project.org/) elements meant to be used as part of a dashboard panel.
+These are [Polymer](https://www.polymer-project.org) elements meant to be used as part of a dashboard panel.
 Think of them as building blocks that can be used to speed up development time of a panel.
 - [nodecg-toggle](https://github.com/NodeCGElements/nodecg-toggle) - Toggles the boolean state of a Replicant.
 - [nodecg-toast](https://github.com/NodeCGElements/nodecg-toast) - An implementation of paper-toast designed to work well in NodeCG dashboard panels.
