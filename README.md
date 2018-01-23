@@ -21,7 +21,7 @@ Want to suggest a bundle for inclusion? Open a PR!
 - [Alerts](#alerts)
 - [Service Integrations](#service-integrations)
   - [Twitch](#twitch)
-  - [Beam](#beam)
+  - [Mixer](#Mixer)
 - [Utilities](#utilities)
 - [Dashboard Polymer Elements](#dashboard-polymer-elements)
 
@@ -33,12 +33,12 @@ NodeCG bundles (or suites of bundles) that provide an entire production system b
 ## Alerts
 Bundles which provide alerts on an overlay.
 
-- [prime-alerts](https://github.com/ProbablePrime/prime-alerts) - Basic follow, sub and tip alerts that listen to nodecg-beam messages.
+- [prime-alerts](https://github.com/ProbablePrime/prime-alerts) - Basic follow, sub and tip alerts that listen to nodecg-mixer messages.
 
 ## Widgets
 Bundles which provide some form of visual information on an overlay.
 
-- [nodecg-recentfollower](https://github.com/Allar/nodecg-recentfollower) - Displays the most recent follower from Beam or Twitch using [node-beam-service](https://github.com/Allar/nodecg-beam-service) and [node-twitch-service](https://github.com/Allar/nodecg-twitch-service).
+- [nodecg-recentfollower](https://github.com/Allar/nodecg-recentfollower) - Displays the most recent follower from Mixer or Twitch using [node-beam-service](https://github.com/Allar/nodecg-beam-service) and [node-twitch-service](https://github.com/Allar/nodecg-twitch-service).
 
 ## Service Integrations
 
@@ -46,9 +46,9 @@ Bundles which provide some form of visual information on an overlay.
 - [lfg-twichapi](https://github.com/SupportClass/lfg-twitchapi) - Lets other bundles easily query the Twitch API on behalf of a logged in user.
 - [nodecg-twitch-service](https://github.com/Allar/nodecg-twitch-service) - Tracks Twitch events and emits them as events for other bundles.
 
-### Beam
-- [nodecg-beam](https://github.com/ProbablePrime/nodecg-beam) - Tracks Beam Follows, Subscriptions and Hosts and emits them as events for other bundles.
-- [nodecg-beam-service](https://github.com/Allar/nodecg-beam-service) - Tracks Beam events using [constellation-client](https://github.com/StreamJar/Constellation) and provides Beam info via Replicants.
+### Mixer
+- [nodecg-mixer](https://github.com/ProbablePrime/nodecg-mixer) - Tracks Mixer Follows, Subscriptions and Hosts and emits them as events for other bundles.
+- [nodecg-beam-service](https://github.com/Allar/nodecg-beam-service) - Tracks Mixer events using [constellation-client](https://github.com/StreamJar/Constellation) and provides Mixer info via Replicants.
 
 ## Utilities
 - [prime-manual-alerts](https://github.com/ProbablePrime/prime-manual-alerts) - Manual emits follow, subscription, host and tip events which prime-alerts can listen to.
