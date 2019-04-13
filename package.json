@@ -3,6 +3,6 @@
     "test": "awesome-lint"
   },
   "devDependencies": {
-    "awesome-lint": ">=0.2.0"
+    "awesome-lint": "^0.9.1"
   }
 }
